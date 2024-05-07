@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Khanal</h1>
 <h3 align="center">AI & Backend Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-dark&label=Profile%20views&color=0e75b6&style=flat" alt="king-dark" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingask-dark&label=Profile%20views&color=0e75b6&style=flat" alt="kingask-dark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-dark" alt="king-dark" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingask-dark" alt="kingask-dark" /></a> </p>
 
 - 🔭 I’m currently working on *Self Improvement*
 

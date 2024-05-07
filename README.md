@@ -1,4 +1,4 @@
-![logo](https://github.com/Kingask-dark/Kingask-dark/Kingask-dark.png)
+![logo](https://github.com/Kingask-dark/Kingask-dark/blob/main/Kingask-dark.png)
 
 <h1 align="center">Hi 👋, I'm Ashish Khanal</h1>
 <h3 align="center">AI & Backend Developer.</h3>
